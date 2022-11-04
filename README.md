@@ -7,7 +7,7 @@
 - Background & platform
   - Tam & Thao
 - Enemy & drop coin/gem after death (no movement for this milestone)
-  - Ryan & Khoa
+  - Ryan
 - Pause button
   - Khoa
 ## 2 - Short Demo Video
